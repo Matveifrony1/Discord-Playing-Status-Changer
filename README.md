@@ -1,5 +1,5 @@
-![Main Window](screenshots/it.png)
-![overview](screenshots/yeah.jpg)
+![Main Window](it.png)
+![overview](yeah.jpg)
 # Discord Playing Status Changer
 
 A lightweight desktop application for managing Discord Rich Presence with custom statuses. Create unlimited profiles with personalized text, images, and clickable buttons that appear in your Discord profile.
